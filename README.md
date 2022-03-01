@@ -1,6 +1,6 @@
 # Content
 
-- Input variables (based on physicochemical tests):
+# Input variables (based on physicochemical tests):
 
 1 - fixed acidity
 
@@ -24,7 +24,7 @@
 
 11 - alcohol
 
-- Output variable (based on sensory data):
+# Output variable (based on sensory data):
 
 12 - quality (score between 0 and 10)
 
