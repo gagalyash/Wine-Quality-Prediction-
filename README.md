@@ -28,18 +28,18 @@
 
 12 - quality (score between 0 and 10)
 
-## Inspiration 
+### Inspiration 
 - Build a Machine Learning Model Which Predict The Quality of Wine
 
-# Wine-Quality-Prediction Using
+### Wine-Quality-Prediction Using
 - Random Forest 
 - Random Forest Classifier
 
-# Necessary Library
+### Necessary Library
 - Pandas
 - Numpy
 - Matplotlib
 - Seaborn
 - Sklearn
 
-# Dataset Link -> https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
+### Dataset Link -> https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
